@@ -4,7 +4,6 @@
 
 - **Email:** harshbpatel22100@gmail.com
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshhk/)
-- **Leetcode:** [![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/hbp227/)
 
 ## 🛠 Technical Skills
 
@@ -44,12 +43,6 @@
 
 - 🚀 Passionate about DevOps and cloud technologies
 - 💡 Enthusiastic about software engineering and continuous learning
-
-## 🔗 Links
-
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshhk/)
-- **Leetcode:** [![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/hbp227/)
 
 ## 📊 GitHub Stats
 
