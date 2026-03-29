@@ -85,10 +85,9 @@ Software Engineer with 3+ years of experience building scalable backend systems 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh7-dev&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh7-dev&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Harsh7-dev&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harsh7-dev&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh7-dev&theme=react-dark&hide_border=true&area=true" />
 </p>
